@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Osman Fırat 👋 I'm pediatrician and full stack software developer.
+I have been in the software industry since 2010. I developed specific applications for various institutions. I have been working as a freelancer since 2013.
 
-<!--
-**osmanfrt/osmanfrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programming languages / frameworks I have worked with:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- VBA for Office
+- Pascal (Delphi)
+- Visual Basic.Net
+- PHP
+- HTML, CSS, Javascript
+- Angularjs
+- Vue.js 2 & 3
+- Laravel
+- Node.js
+- Nuxt.js
