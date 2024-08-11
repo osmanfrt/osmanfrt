@@ -1,5 +1,7 @@
-### Hi, I'm Osman Fırat 👋 I'm pediatrician and full stack software developer.
-I have been in the software industry since 2002. I developed specific applications for various institutions. I have been working as a freelancer since 2013.
+### Hi, I'm Osman Fırat 👋 I'm pediatrician and software developer.
+Hi, I studied medicine and continued my education with pediatrics as a specialty. Since 2002, I have been developing applications for various sectors.
+
+We are currently developing SaaS products with my brother @mertcdev.
 
 Programming languages / frameworks I have worked with:
 
