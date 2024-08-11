@@ -1,7 +1,7 @@
 ### Hi, I'm Osman Fırat 👋 I'm pediatrician and software developer.
 Hi, I studied medicine and continued my education with pediatrics as a specialty. Since 2002, I have been developing applications for various sectors.
 
-We are currently developing SaaS products with my brother @mertcdev.
+We are currently developing SaaS products with my brother [@mertcdev].
 
 Programming languages / frameworks I have worked with:
 
